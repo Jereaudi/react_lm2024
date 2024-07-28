@@ -1,4 +1,4 @@
-import '../styles/Nosotros.css';
+import '../styles/nosotros.css';
 
 const Nosotrospage = (props) => {
     return(
